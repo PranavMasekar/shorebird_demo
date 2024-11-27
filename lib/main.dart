@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Shorebird Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.limeAccent),
         useMaterial3: true,
       ),
       home: const MyHomePage(title: 'Shorebird Demo'),
